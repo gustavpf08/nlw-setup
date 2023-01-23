@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O habits é um projeto feito para ajudar no controle dos hábitos.
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
+- [Acesse o projeto finalizado, online](https://gustavpf08.github.io/nlw-setup)
 
 ## 🔖 Layout
 
